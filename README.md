@@ -49,7 +49,7 @@ project/
 ### **3. Iniciar a Aplicação**
 1. Clone este repositório:
    ```bash
-   git clone <seu-repositorio>
+   git clone https://github.com/yuamignoni/Registro-ponto.git
    cd project
    ```
 
