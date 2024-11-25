@@ -16,7 +16,7 @@ A dificuldade de registrar e monitorar horários de entrada e saída de colabora
 ## 🛠️ **Tecnologias Utilizadas**
 ### **Frontend**
 - **React**: Interface de usuário interativa.
-- **TailwindCSS**: Estilização responsiva e customizável.
+- **Styled Somponents**: Estilização responsiva e customizável.
 - **Axios**: Comunicação com o backend.
 - **Nginx**: Servidor para o build de produção.
 
